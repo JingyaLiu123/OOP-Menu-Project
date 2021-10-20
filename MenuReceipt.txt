@@ -1,0 +1,7 @@
+10 Sandwhich Yes Non-vegetarian 42
+20 Pasta No Non-alcoholic 450
+8 Milk hot non-alcoholic 60
+20 Pasta No Non-alcoholic 450
+15 Burger No Alcoholic 670
+13 Rum cold alcoholic 140
+15 Burger No Alcoholic 670

@@ -1,0 +1,11 @@
+Rum              13        cold        alcoholic           140
+Milk             8         hot         non-alcoholic       60
+Sprite           4         cold        non-alcoholic       200
+Tequila          20        cold        alcoholic           94
+Coffee           5         hot         non-alcoholic       50
+Water            2         No          Non-alcoholic       0
+Dr_Pepper        4         Yes         Non-alcoholic       45
+Banana_milk      12        No          Non-alcoholic       12
+cola             2         No          Non-alcoholic       999
+Solo             4         No          Non-alcoholic       34                  
+1                12        No          Alcoholic           23                  

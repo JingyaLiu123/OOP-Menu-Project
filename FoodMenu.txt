@@ -1,0 +1,5 @@
+Pasta            20        No          Non-alcoholic       450                 
+Burger           15        No          Alcoholic           670                 
+Sandwhich        10        Yes         Non-vegetarian      42                  
+1                12        Yes         Vegetarian          24                  
+1                12        Yes         Vegetarian          12                  
